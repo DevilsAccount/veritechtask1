@@ -1,0 +1,123 @@
+ #hero {
+    width: 100%;
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+    align-items: center; 
+}
+  
+  #hero .container {
+    position: relative;
+    padding-top: 74px;
+    text-align: center;
+  }
+  
+  #hero h3 {
+    margin: 0;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 64px;
+    color: whitesmoke;
+    font-family: "Poppins", sans-serif;
+    border: 1px solid blueviolet;
+    background-color: blueviolet;
+  }
+  
+  #hero h1 span {
+    color: #ffc451;
+  }
+  
+  #hero h2 {
+    color: rgba(255, 255, 255, 0.9);
+    margin: 10px 0 0 0;
+    font-size: 24px;
+  }
+  
+  hr{
+    border: none;
+    border-top: 2px dotted blueviolet;
+    margin: 10px 0;
+  }
+
+  .team {
+    background: #fff;
+    padding: 60px 0;
+   
+    
+  }
+  
+   .team .member {
+   display: inline-block;
+  } 
+  
+  .team .member .member-img {
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    
+  }
+
+  .team .member .member-info {
+    padding: 25px 15px;
+  }
+  
+  .team .member .member-info h4 {
+    font-weight: 700;
+    margin-bottom: 5px;
+    font-size: 18px;
+    color: #151515;
+  }
+  
+  .team .member .member-info span {
+    display: block;
+    font-size: 13px;
+    font-weight: 400;
+    color: #aaaaaa;
+  }
+  
+  .team .member .member-info p {
+    font-style: italic;
+    font-size: 14px;
+    line-height: 26px;
+    color: #777777;
+
+  }
+  
+  .c1{
+    margin: 50px;
+    font-size: 18px;
+    font-weight: 250;
+    line-height: 32px;
+    color: whitesmoke;
+    font-family: "Poppins", sans-serif;
+    border: 1px solid blueviolet;
+    background-color: blueviolet;
+    text-align: center;
+  }
+
+  .d1{
+    margin: 50px;
+    font-size: 18px;
+    font-weight: 250;
+    line-height: 32px;
+    color: whitesmoke;
+    font-family: "Poppins", sans-serif;
+    border: 1px solid blueviolet;
+    background-color: blueviolet;
+    text-align: center;
+  }
+
+  .sm1{
+    margin: 50px;
+    font-size: 18px;
+    font-weight: 250;
+    line-height: 32px;
+    color: whitesmoke;
+    font-family: "Poppins", sans-serif;
+    border: 1px solid blueviolet;
+    background-color: blueviolet;
+    text-align: center;
+  }
